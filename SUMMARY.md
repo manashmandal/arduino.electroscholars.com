@@ -1,6 +1,8 @@
 # Summary
+
+* [introduction](README.md)
 * Introduction
-  * Prequisite
-  * Why should you study Electrical & Electronics Circuit?
-  * Why learn Arduino?
-  
+   * [Prequisite](prequisite.md)
+   * Why should you study Electrical & Electronics Circuit?
+   * Why learn Arduino?
+
