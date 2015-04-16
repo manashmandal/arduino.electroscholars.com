@@ -21,4 +21,4 @@ Studies Electrical and Electronic Engineering at Khulna University of Engineerin
 Khulna, Bangladesh
 
 * [Facebook ID](https://www.facebook.com/JackspicerPhoenix)
-* [Gmail](manashmndl@gmail.com)
+* [Gmail](mailto:manashmndl@gmail.com)
