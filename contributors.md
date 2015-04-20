@@ -11,6 +11,7 @@ Studied Computer Science and Biomedical Informatics at University of Thessaly
 Lamia, Greece
 
 * [Facebook ID](https://www.facebook.com/vann.kavrochorianou?fref=ts)
+* [GitHub](https://github.com/ekavch)
 
 ## Team Member
 
@@ -22,3 +23,4 @@ Khulna, Bangladesh
 
 * [Facebook ID](https://www.facebook.com/JackspicerPhoenix)
 * [Gmail](mailto:manashmndl@gmail.com)
+* [GitHub](https://github.com/manashmndl)
