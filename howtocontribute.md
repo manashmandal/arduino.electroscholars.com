@@ -64,7 +64,7 @@ If you visit [this link](http://arduino.electroscholars.com) then you'll see
 
 ## Don't Forget!!!
 
-Don't you want credit for the awesome contribution you just made? Sure you do, even if you don't we insist to add your name to the contributiors' page. The more the merrier. People will be wanting to contribute if they see a lot of people working hard to make a vision into reality. We would like you to be with us!
+Don't you want credit for the awesome contribution you just made? Sure you do, even if you don't we insist to add your name to the contributors' page. The more the merrier. People will be wanting to contribute if they see a lot of people working hard to make a vision into reality. We would like you to be with us!
 
 Add your name to the `contributors.md` file and send pull request. 
 
