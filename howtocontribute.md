@@ -49,7 +49,7 @@ Create a new account on `github` by just visiting [here](https://github.com)
 
 You have created a file but it is not in the menu! If you want to show your file on the website, make sure you edit the `SUMMARY.md` file to put the link of the document you just have made. Here is an example.
 
-![summary](http://i.imgur.com/2s5z4qU.png)
+![summary](http://i.imgur.com/Vae2mfK.png)
 
 #### Done!!! 
 
