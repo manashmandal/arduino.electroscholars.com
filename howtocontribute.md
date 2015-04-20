@@ -1,32 +1,32 @@
 # How to contribute? 
 
-Are you new to GitHub? Know a lot of things and found a lot of error in our documents but can't help us out? Then you are on the right page! This should be a simple tutorial on how to contribute to this git-based crowd source project. People who are having a hard time with GitHub now can finally contribute :smile:
+Are you new to GitHub? Know a lot of things and found a lot of error in our documents but can't help us out? Then you are on the right page! This should be a simple tutorial on how to contribute to this git-based crowd source project. People who are having a hard time with GitHub now can finally contribute
 
 ## Step 1
 Create a new account on `github` by just visiting [here](https://github.com)
 
 ## Step 2
-* You have created your account and verified it so you'll be able to contribute to any project on the github now :sparkling_heart:
+* You have created your account and verified it so you'll be able to contribute to any project on the github now 
 * Since you are reading this page for contributing to this Arduino project so just visit [this link](https://github.com/manashmndl/arduino.electroscholars.com) and click `fork`.
 ![forking](http://i.imgur.com/xN15jq6.png)
 
 * Take a look at the forked copy
 ![forked](http://i.imgur.com/fIGdHhp.png)
 
-> Forking means you now own a copy of the website in your account, so you don't have to search here and there for the project link. Just login to your account for contributing next time(s) :grinning:
+> Forking means you now own a copy of the website in your account, so you don't have to search here and there for the project link. Just login to your account for contributing next time(s) 
 
 ## Step 3
 
-* Well what do you know? Now you can add as many information as you wish! Neat, huh? :wink:
+* Well what do you know? Now you can add as many information as you wish! Neat, huh? 
 * To get started, let's see how to add a page to this website! Click on the `+` sign to begin 
 ![plus](http://i.imgur.com/Sggbds2.png)
 
 ## Step 4
 
-* Name your precious file! [Don't forget to add `.md` extension for markdown!]. Then write something. :sunglasses:
+* Name your precious file! [Don't forget to add `.md` extension for markdown!]. Then write something. 
 ![write](http://i.imgur.com/06487pD.png)
 * Lot to do? I agree, but only for the first time, from the next time(s) it will by easy as pie. 
-* Now simply add some comments "bla bla bla" and push the `Commit New File` button and it will be done before you know it :alien:
+* Now simply add some comments "bla bla bla" and push the `Commit New File` button and it will be done before you know it 
 ![commit](http://i.imgur.com/gOGmGZ9.png)
 
 ## Step 5
@@ -51,14 +51,14 @@ You have created a file but it is not in the menu! If you want to show your file
 
 ![summary](http://i.imgur.com/2s5z4qU.png)
 
-#### Done!!! :smile:
+#### Done!!! 
 
 If you visit [this link](http://arduino.electroscholars.com) then you'll see
 ![done](http://i.imgur.com/zezObX8.png)
 
 ## Now from my side
 
-* I get a notification that you have created a file and want to merge it with the original repo. I simply accept it and merge it with my repo. :smile:
+* I get a notification that you have created a file and want to merge it with the original repo. I simply accept it and merge it with my repo. 
 
 ![noti](http://i.imgur.com/IUDbpav.png)
 
@@ -73,4 +73,4 @@ Add your name to the `contributors.md` file and send pull request.
 * Having problem with markdown syntax? No problem, just visit [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and see a couple of example and trust me you'll be rocking! 
 * Want to add cool emoji to your document? [Don't forget to click then](www.emoji-cheat-sheet.com)
 
-Hope this helps! If you have any question regarding this then please let me know. I'll be happy to solve your problems. Happy Contributing! :yum:
+Hope this helps! If you have any question regarding this then please let me know. I'll be happy to solve your problems. Happy Contributing! 
