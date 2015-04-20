@@ -71,6 +71,5 @@ Add your name to the `contributors.md` file and send pull request.
 ## Extras
 
 * Having problem with markdown syntax? No problem, just visit [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and see a couple of example and trust me you'll be rocking! 
-* Want to add cool emoji to your document? [Don't forget to click then](www.emoji-cheat-sheet.com)
 
 Hope this helps! If you have any question regarding this then please let me know. I'll be happy to solve your problems. Happy Contributing! 
