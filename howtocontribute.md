@@ -10,9 +10,17 @@ Create a new account on `github` by just visiting [here](https://github.com)
 * Since you are reading this page for contributing to this Arduino project so just visit [this link](https://github.com/manashmndl/arduino.electroscholars.com) and click `fork`.
 ![forking](http://i.imgur.com/xN15jq6.png)
 
-> Forking means you now own a copy of the website in your account, so you don't have to searching here and there for the project link. Just login to your account for contributing next time(s) :grinning:
+* Take a look at the forked copy
+![forked](http://i.imgur.com/fIGdHhp.png)
+
+> Forking means you now own a copy of the website in your account, so you don't have to search here and there for the project link. Just login to your account for contributing next time(s) :grinning:
 
 ## Step 3
+
+* Well what do you know? Now you can add as many information as you wish! Neat, huh? :wink:
+* To get started, let's see how to add a page to this website! Click on the `+` sign to begin 
+![plus](http://i.imgur.com/Sggbds2.png)
+
 
 
 
