@@ -2,8 +2,8 @@
 
 * [Contributors](contributors.md)
 * [How to Contribute?](howtocontribute.md)
-* [Why and What](why.md)
-   * [What should I know before reading this book?](prequisite.md)
+* [Prerequisites](prerequisites.md)
+* [Why and What](#)
    * Why should you study Electrical & Electronics Circuit?
    * Why learn Arduino?
 
