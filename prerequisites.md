@@ -1,6 +1,6 @@
 ## Prerequisites and must-have items and software!
 
-Hello! You can definitely get started on arduino without any special background whatsoever (I'll work you through, promise), but there are certain little somethings that will make things just a little easier for you! For starters, a solid background in basic electronics (like Ohm's Law -- but I'll try my best to explain that as well as I can too) and basic programming knowledge (in C! Viva CS50!) helps A LOT. 
+Hello! You can definitely get started on arduino without any special background whatsoever (I'll work you through, promise), but there are certain little somethings that will make things just a little easier for you! For starters, a solid background in basic electronics (like Ohm's Law -- but I'll try my best to explain that as well as I can too) and basic programming knowledge (``in C! Viva CS50!``) helps A LOT. 
 Here I'll try to list some things that you will need, explanations as to WHY you need them
 
 ## Hardware
@@ -13,7 +13,7 @@ Here I'll try to list some things that you will need, explanations as to WHY you
 ## Concerning #2:      
 Feel free to opt for an arduino kit, they're pretty neat and they will help you get started right off the bat! Some of them come with project instructions as well!
 
-## Concerning #2 :  
+## Concerning #2:  
 
 If you can't buy any hardware--don't fret! There are plenty decent arduino simulators out there for you to learn the ropes without spending any of your hard-earned money on something you don't know if you'll enjoy enough to stick with! (relevant link in description)
 
